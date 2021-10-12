@@ -28,9 +28,13 @@
 
 ``
 module add intel/2019b
+
 export PATH=$PATH:/public/software/.local/easybuild/software/VASP/vasp/vasp.5.4.4/bin
+
 ulimit -s unlimited
+
 ulimit -l unlimited
+
 mpirun vasp_std
 ``
 
@@ -40,4 +44,4 @@ mpirun vasp_std
 
 https://www.cloudam.cn/index.html
 
-![](photo/cloudE138.png)
+http://120.77.149.83:4999/Public/Uploads/2021-07-07/60e5782e46b95.png
