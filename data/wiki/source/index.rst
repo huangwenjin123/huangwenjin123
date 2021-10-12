@@ -4,12 +4,7 @@
    contain the root `toctree` directive.
 
 目录1
-=======================================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+======================================
 
    作业提交
    文件管理
@@ -32,12 +27,12 @@
 代码块：``text``
 
 
-``
-module add xxxx/xxxx
-``
+``module add xxxx/xxxx``
 
 图片测试
 ==============
 北鲲云超算 
-.. _a link: https://www.cloudam.cn/index.html
+
+https://www.cloudam.cn/index.html
+
 ![](photo/cloudE138.png)
