@@ -50,3 +50,9 @@
 https://www.cloudam.cn/index.html
 
 .. image::photo/cloudE138.png
+   :height: 100px 
+   :width: 200 px 
+   :scale: 50 % 
+   :alt: 替代文本
+   :align: right
+   
