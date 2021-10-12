@@ -2,21 +2,15 @@
    sphinx-quickstart on Mon Oct 11 15:27:11 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-   
-用户手册
-==============
-.. toctree::
-   :maxdepth: 2
-
-   install
-   support
 
 目录1
-======================================
+=======================================
 
-* `提交作业`
-* `ssh`
-* `图形应用`
+* 作业提交
+
+* 文件管理
+
+* ssh连接
 
 目录2
 ==================
@@ -36,23 +30,18 @@
 
 .. code-block:: python
    :linenos:
-   
-   module add intel/2019b
-   export PATH=$PATH:/public/software/.local/easybuild/software/VASP/vasp/vasp.5.4.4/bin
-   ulimit -s unlimited
-   ulimit -l unlimited
-   mpirun vasp_std
+
+   module avai
+   module add xxxx/xxxx
 
 图片测试
 ==============
+
 **北鲲云超算**
 
 https://www.cloudam.cn/index.html
 
-.. image::photo/cloudE138.png
-   :height: 100px 
-   :width: 200 px 
-   :scale: 50 % 
-   :alt: 替代文本
-   :align: right
-   
+.. figure::picture.png
+   :scale: 50 %
+   :alt: 映射到埋藏的宝藏
+

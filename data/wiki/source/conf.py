@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'cloudam.io'
+project = u'User Manual'
 copyright = u'2021, cloudam.io'
 author = u'cloudam.io'
 
