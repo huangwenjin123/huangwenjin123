@@ -6,9 +6,9 @@
 目录1
 ======================================
 
-   作业提交
-   文件管理
-   ssh连接
+* :ref:`提交作业`
+* :ref:`ssh`
+* :ref:`图形应用`
 
 目录2
 ==================
@@ -26,8 +26,11 @@
 
 代码块：``text``
 
-
-``module add xxxx/xxxx``
+``module add intel/2019b
+export PATH=$PATH:/public/software/.local/easybuild/software/VASP/vasp/vasp.5.4.4/bin
+ulimit -s unlimited
+ulimit -l unlimited
+mpirun vasp_std``
 
 图片测试
 ==============
