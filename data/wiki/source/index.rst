@@ -11,8 +11,9 @@
    :caption: Contents:
 
 
-   * Online documentation: http://docs.writethedocs.org/
-   * Conference: http://conf.writethedocs.org/
+   * 作业提交
+   * 文件管理
+   * ssh连接
 
 目录2
 ==================
@@ -24,13 +25,15 @@
 测试
 ====================
 
-one asterisk: *text* for emphasis (italics),
-two asterisks: **text** for strong emphasis (boldface), and
-backquotes: ``text`` for code samples.
+斜体： *text*
+加粗: **text**
+代码块：``text``
 
-```
+``
+module avai
 module add xxxx/xxxx
-```
+``
+
 图片测试
 ==============
 北鲲云超算 
