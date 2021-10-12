@@ -26,15 +26,17 @@
 
 代码块：``text``
 
-``module add intel/2019b
+``
+module add intel/2019b
 export PATH=$PATH:/public/software/.local/easybuild/software/VASP/vasp/vasp.5.4.4/bin
 ulimit -s unlimited
 ulimit -l unlimited
-mpirun vasp_std``
+mpirun vasp_std
+``
 
 图片测试
 ==============
-北鲲云超算 
+**北鲲云超算**
 
 https://www.cloudam.cn/index.html
 
