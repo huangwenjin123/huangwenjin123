@@ -65,3 +65,4 @@ True   True   True
 图片测试
 ------------------------
 
+.. image:: ./_static/logo.jpg
