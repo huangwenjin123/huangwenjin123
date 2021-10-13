@@ -2,15 +2,13 @@
    sphinx-quickstart on Mon Oct 11 15:27:11 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-   
-**用户手册**
 
 ************************************
 第一章
 ************************************
    
 =================
-This is a heading
+* 作业提交
 
 * 文件管理
 
@@ -55,18 +53,46 @@ This is a heading
 ************************************
 第二章
 ************************************
+   
+=================
+* 作业提交
 
-**北鲲云超算**
+* 文件管理
 
-=====  =====  =======
-A      B      A and B
-=====  =====  =======
-False  False  False
-True   False  False
-False  True   False
-True   True   True
-=====  =====  =======
+* ssh连接
 
-官网地址 `incloud`_.
+=================
 
-.. incloud: https://www.cloudam.cn/index.html
+目录1
+=======================================
+
+* 作业提交
+
+* 文件管理
+
+* ssh连接
+
+目录2
+====================================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+测试
+====================
+
+斜体： *text*
+
+加粗: **text**
+
+代码块：``text``
+
+.. code-block:: python
+   :linenos:
+
+   module avai
+   module add xxxx/xxxx
+
+图片测试
+===============
