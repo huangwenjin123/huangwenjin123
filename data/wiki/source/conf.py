@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'User Manual'
+project = u'cloudam.io'
 copyright = u'2021, cloudam.io'
 author = u'cloudam.io'
 
@@ -193,3 +193,6 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+html_logo = './_static/logo.jpg'
+
