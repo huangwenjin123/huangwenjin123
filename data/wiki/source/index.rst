@@ -2,6 +2,13 @@
    sphinx-quickstart on Mon Oct 11 15:27:11 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+   
+.. toctree::
+   :maxdepth: 2
+
+   intro
+   tutorial
+   ...
 
 目录1
 =======================================
@@ -40,8 +47,4 @@
 **北鲲云超算**
 
 https://www.cloudam.cn/index.html
-
-.. figure::picture.png
-   :scale: 50 %
-   :alt: 映射到埋藏的宝藏
 
