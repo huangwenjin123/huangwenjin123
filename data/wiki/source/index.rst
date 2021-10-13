@@ -60,6 +60,8 @@ True   True   True
 图片测试
 -----------------------------------------
 
+.. image:: cloudE138.png
+
 北鲲云超算 `a cloudam`_.
 
 .. _a cloudam: https://www.cloudam.cn/
