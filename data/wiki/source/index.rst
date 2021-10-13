@@ -3,9 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
    
-#############
-用户手册
-#############
+**用户手册**
 
 ************************************
 第一章
@@ -13,25 +11,24 @@
    
 =================
 This is a heading
+
+* 文件管理
+
+* ssh连接
+
 =================
 
 目录1
 =======================================
 
-----------------
-快速入门
-----------------
-
-^^^^^^^^^^^
 * 作业提交
-^^^^^^^^^^^
 
 * 文件管理
 
 * ssh连接
 
 目录2
-==================
+===================================
 
 * :ref:`genindex`
 * :ref:`modindex`
@@ -66,9 +63,9 @@ False  True   False
 True   True   True
 =====  =====  =======
 
-段落里包含 `a link`_.
+官网地址.
 
-.. 官网地址: https://www.cloudam.cn/index.html
+.. _a link: https://www.cloudam.cn/index.html
 
 ************************************
 第二章
